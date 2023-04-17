@@ -7,7 +7,8 @@ WIP
 - Projects
 - Contact
 
-
+# Todo
+ - Add project descriptions and images
 
 Strata by HTML5 UP
 html5up.net | @ajlkn
