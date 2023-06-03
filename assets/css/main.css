@@ -2253,6 +2253,7 @@ input, select, textarea {
 		list-style: none;
 		margin-left: -1em;
 		padding-left: 0;
+		flex-wrap: wrap;
 	}
 
 		ul.actions li {
@@ -2456,7 +2457,7 @@ input, select, textarea {
 		height: 3.15em;
 		height: calc(2.75em + 6px);
 		line-height: 2.75em;
-		min-width: 10em;
+		min-width: 8em;
 		padding: 0 1.5em;
 		text-align: center;
 		text-decoration: none;
