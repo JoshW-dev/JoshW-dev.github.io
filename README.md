@@ -1,4 +1,4 @@
 # Personal Portfilio (deprecated)
 
-This is the repo for my old personal website. THe new site is available at [joshwade.site](joshwade.site)
+This is the repo for my old personal website. The new site is available at [joshwade.site](joshwade.site)
 
